@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Tushar Sonkar</h1>
+<h3 align="center">Cybersecurity Engineer | Full-Stack Developer | DevSecOps Enthusiast</h3>
 
-<!--
-**tusharsonkar07/tusharsonkar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Cybersecurity+Student;Flutter+App+Developer;DevSecOps+Engineer;Open+Source+Contributor;Always+Learning...⚡" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 About Me
+
+- 🎓 **3rd-year B.Tech CSE (Cyber Security)** student at PSIT
+- 🛡️ Currently building a **Self-Healing Cybersecurity System**
+- 📱 Developing an **Encrypted Messaging App** using Flutter + ECC
+- 🔭 Contributor to **ElectroPave**: Energy Harvesting from Footsteps
+- 🧠 Learning: **LSTM, BERT, Anomaly Detection**, and **Cloud DevOps**
+- 💬 Ask me about **AI + Security + GitHub Automation**
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+Languages     → Python, Dart, C++, JavaScript
+DevOps Tools  → Git, GitHub Actions, Docker, Bash, Linux
+Frameworks    → Flutter, Node.js, Express, Firebase, Tailwind
+AI & Security → TensorFlow, BERT, TF-IDF, Isolation Forest
+Database      → MongoDB, MySQL
