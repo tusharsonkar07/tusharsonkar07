@@ -13,7 +13,7 @@
 - 🛡️ Currently building a **Self-Healing Cybersecurity System**
 - 📱 Developing an **Encrypted Messaging App** using Flutter + ECC
 - 🔭 Contributor to **ElectroPave**: Energy Harvesting from Footsteps
-- 🧠 Learning: **LSTM, BERT, Anomaly Detection**, and **Cloud DevOps**
+- 🧠 Learning: **Cloud DevOps**
 - 💬 Ask me about **AI + Security + GitHub Automation**
 
 ---
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 ```bash
-Languages     → Python,Java, Dart, JavaScript
+Languages     → Python, Java, Dart, JavaScript
 DevOps Tools  → Git, GitHub Actions, Docker, Bash, Linux
 Frameworks    → Flutter, Node.js, Express, Firebase, Tailwind
 AI & Security → TensorFlow
