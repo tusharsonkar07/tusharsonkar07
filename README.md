@@ -9,7 +9,7 @@
 
 ## 🔧 About Me
 
-- 🎓 **3rd-year B.Tech CSE (Cyber Security)** student at PSIT
+- 🎓 **4th-year B.Tech CSE (Cyber Security)** student at PSIT
 - 🛡️ Currently building a **Self-Healing Cybersecurity System**
 - 📱 Developing an **Encrypted Messaging App** using Flutter + ECC
 - 🔭 Contributor to **ElectroPave**: Energy Harvesting from Footsteps
